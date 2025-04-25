@@ -1,0 +1,7 @@
+*.vcd
+*.out
+work/
+play/
+vsim.wlf
+vivado*
+.Xil/
