@@ -1,4 +1,4 @@
-module RV(
+module rv_top(
     output logic [31:0] out,
     output bit exit, OutType,
     input bit clk
